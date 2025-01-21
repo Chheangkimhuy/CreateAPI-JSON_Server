@@ -1,0 +1,148 @@
+{
+  "course": [
+    {
+      "id": 1,
+      "title": "Introduction to Programming",
+      "level": "Beginner",
+      "rate": 4.5,
+      "hour": 10,
+      "image": "intro_programming.jpg",
+      "price": 50
+    },
+    {
+      "id": 2,
+      "title": "Advanced Python",
+      "level": "Advanced",
+      "rate": 4.8,
+      "hour": 15,
+      "image": "advanced_python.jpg",
+      "price": 80
+    },
+    {
+      "id": 3,
+      "title": "Web Development Basics",
+      "level": "Intermediate",
+      "rate": 4.2,
+      "hour": 12,
+      "image": "web_dev_basics.jpg",
+      "price": 60
+    },
+    {
+      "id": 4,
+      "title": "Data Science with R",
+      "level": "Intermediate",
+      "rate": 4.7,
+      "hour": 20,
+      "image": "data_science_r.jpg",
+      "price": 100
+    },
+    {
+      "id": 5,
+      "title": "Machine Learning A-Z",
+      "level": "Advanced",
+      "rate": 4.9,
+      "hour": 25,
+      "image": "ml_az.jpg",
+      "price": 120
+    },
+    {
+      "id": 6,
+      "title": "Digital Marketing 101",
+      "level": "Beginner",
+      "rate": 4.3,
+      "hour": 8,
+      "image": "digital_marketing.jpg",
+      "price": 40
+    },
+    {
+      "id": 7,
+      "title": "UI/UX Design Principles",
+      "level": "Intermediate",
+      "rate": 4.4,
+      "hour": 10,
+      "image": "uiux_design.jpg",
+      "price": 70
+    },
+    {
+      "id": 8,
+      "title": "Cloud Computing Basics",
+      "level": "Beginner",
+      "rate": 4.6,
+      "hour": 14,
+      "image": "cloud_computing.jpg",
+      "price": 65
+    },
+    {
+      "id": 9,
+      "title": "Cybersecurity Fundamentals",
+      "level": "Intermediate",
+      "rate": 4.5,
+      "hour": 16,
+      "image": "cybersecurity.jpg",
+      "price": 75
+    },
+    {
+      "id": 10,
+      "title": "AI for Business",
+      "level": "Beginner",
+      "rate": 4.7,
+      "hour": 9,
+      "image": "ai_business.jpg",
+      "price": 55
+    },
+    {
+      "id": 11,
+      "title": "Blockchain Essentials",
+      "level": "Intermediate",
+      "rate": 4.6,
+      "hour": 11,
+      "image": "blockchain.jpg",
+      "price": 70
+    },
+    {
+      "id": 12,
+      "title": "DevOps for Developers",
+      "level": "Advanced",
+      "rate": 4.8,
+      "hour": 18,
+      "image": "devops.jpg",
+      "price": 90
+    },
+    {
+      "id": 13,
+      "title": "Photography Basics",
+      "level": "Beginner",
+      "rate": 4.2,
+      "hour": 6,
+      "image": "photography.jpg",
+      "price": 30
+    },
+    {
+      "id": 14,
+      "title": "Video Editing Masterclass",
+      "level": "Advanced",
+      "rate": 4.9,
+      "hour": 20,
+      "image": "video_editing.jpg",
+      "price": 110
+    },
+    {
+      "id": 15,
+      "title": "Public Speaking",
+      "level": "Beginner",
+      "rate": 4.3,
+      "hour": 7,
+      "image": "public_speaking.jpg",
+      "price": 45
+    },
+    {
+      "id": 16,
+      "title": "Entrepreneurship Strategies",
+      "level": "Intermediate",
+      "rate": 4.8,
+      "hour": 12,
+      "image": "entrepreneurship.jpg",
+      "price": 85
+    }
+  ]
+}
