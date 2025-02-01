@@ -6,7 +6,7 @@
       "level": "Beginner",
       "rate": 4.5,
       "hour": 10,
-      "image": "intro_programming.jpg",
+      "image": "https://codethedream.org/wp-content/uploads/2023/12/Intro-to-Programming-1024x1024.png",
       "price": 50
     },
     {
@@ -15,7 +15,7 @@
       "level": "Advanced",
       "rate": 4.8,
       "hour": 15,
-      "image": "advanced_python.jpg",
+      "image": "https://skillxprss.com/wp-content/uploads/2021/12/Advanced-Python-batch-01-website.jpg",
       "price": 80
     },
     {
@@ -24,7 +24,7 @@
       "level": "Intermediate",
       "rate": 4.2,
       "hour": 12,
-      "image": "web_dev_basics.jpg",
+      "image": "https://www.keystonesubic.com/wp-content/uploads/2023/03/web-devlopment.jpg",
       "price": 60
     },
     {
@@ -33,7 +33,7 @@
       "level": "Intermediate",
       "rate": 4.7,
       "hour": 20,
-      "image": "data_science_r.jpg",
+      "image": "https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/01/Blog_R-For-Data-Science-2.jpg",
       "price": 100
     },
     {
@@ -42,7 +42,7 @@
       "level": "Advanced",
       "rate": 4.9,
       "hour": 25,
-      "image": "ml_az.jpg",
+      "image": "https://online.fliphtml5.com/grdgl/hfrm/files/large/36a1b98f33ae60c35dada8127cbeb8fe.webp?1721989493&1721989493.jpg",
       "price": 120
     },
     {
@@ -51,7 +51,7 @@
       "level": "Beginner",
       "rate": 4.3,
       "hour": 8,
-      "image": "digital_marketing.jpg",
+      "image": "https://www.seointl.net/wp-content/uploads/2023/04/AI-Marketing-101-Course-Dubai-UAE.jpg",
       "price": 40
     },
     {
@@ -60,7 +60,7 @@
       "level": "Intermediate",
       "rate": 4.4,
       "hour": 10,
-      "image": "uiux_design.jpg",
+      "image": "https://img-c.udemycdn.com/course/750x422/4592070_03cd_4.jpg",
       "price": 70
     },
     {
@@ -69,7 +69,7 @@
       "level": "Beginner",
       "rate": 4.6,
       "hour": 14,
-      "image": "cloud_computing.jpg",
+      "image": "https://www.c-sharpcorner.com/article/basic-understanding-of-cloud-computing/Images/Basic%20Understanding%20Of%20Cloud%20Computing.jpg",
       "price": 65
     },
     {
@@ -78,7 +78,7 @@
       "level": "Intermediate",
       "rate": 4.5,
       "hour": 16,
-      "image": "cybersecurity.jpg",
+      "image": "https://www.tuv.com/content-media-files/germany/bs-industrial-service/landingpages/functional-safety-training-cyber-security/distribution-pages/tuv-rheinland-cs-fundamentals-of-cyber-security-sk-453386985.jpg",
       "price": 75
     },
     {
@@ -87,7 +87,7 @@
       "level": "Beginner",
       "rate": 4.7,
       "hour": 9,
-      "image": "ai_business.jpg",
+      "image": "https://aiforbusiness.courses/wp-content/uploads/2023/12/Dirbtinio-intelekto-mokymai-imonems.jpg",
       "price": 55
     },
     {
@@ -96,7 +96,7 @@
       "level": "Intermediate",
       "rate": 4.6,
       "hour": 11,
-      "image": "blockchain.jpg",
+      "image": "https://timess3spore.s3.amazonaws.com/ndata/recruiterpostjob/IBM/2022/01/11/1641881710.jpg",
       "price": 70
     },
     {
@@ -105,7 +105,7 @@
       "level": "Advanced",
       "rate": 4.8,
       "hour": 18,
-      "image": "devops.jpg",
+      "image": "https://d502jbuhuh9wk.cloudfront.net/courses/64f1e07be4b0bbd6b56f7c05/R4Tdzyellowblue3dtechnologyfacebookcover.png",
       "price": 90
     },
     {
@@ -114,7 +114,7 @@
       "level": "Beginner",
       "rate": 4.2,
       "hour": 6,
-      "image": "photography.jpg",
+      "image": "https://st.classi4u.com/in/ads/4080143/photography-course-in-bangalore.jpg",
       "price": 30
     },
     {
@@ -123,7 +123,7 @@
       "level": "Advanced",
       "rate": 4.9,
       "hour": 20,
-      "image": "video_editing.jpg",
+      "image": "https://img-c.udemycdn.com/course/750x422/6012036_bb33.jpg",
       "price": 110
     },
     {
@@ -132,7 +132,7 @@
       "level": "Beginner",
       "rate": 4.3,
       "hour": 7,
-      "image": "public_speaking.jpg",
+      "image": "https://stores.biotecnika.org/cdn/shop/products/Socialmedia._1200x1200.jpg?v=1628736139",
       "price": 45
     },
     {
@@ -141,7 +141,7 @@
       "level": "Intermediate",
       "rate": 4.8,
       "hour": 12,
-      "image": "entrepreneurship.jpg",
+      "image": "https://www.bia.edu.kw/wp-content/uploads/2018/11/marketing-strategy.jpg",
       "price": 85
     }
   ]
